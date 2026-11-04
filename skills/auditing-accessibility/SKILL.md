@@ -4,6 +4,9 @@ description: |
   审查或修复存量 Android（XML Layout / Jetpack Compose）、iOS（UIKit / SwiftUI）或 Web（HTML / React / Vue）项目的基础读屏无障碍问题。
   当用户明确要求无障碍适配、读屏修复、TalkBack / VoiceOver 检查或 a11y audit 时触发；不在正常 UI 开发过程中自动触发。
   触发词：无障碍适配、读屏修复、TalkBack、VoiceOver、a11y audit、accessibility
+  Audit or fix basic screen-reader accessibility issues in existing Android (XML Layout / Jetpack Compose), iOS (UIKit / SwiftUI) or Web (HTML / React / Vue) projects.
+  Use when the user explicitly asks for accessibility support, screen-reader fixes, a TalkBack / VoiceOver check or an a11y audit; do not trigger automatically during normal UI development.
+  Trigger words: accessibility, a11y audit, screen reader, TalkBack, VoiceOver, NVDA, accessible labels
 ---
 
 # 基础读屏适配（Android / iOS / Web）
